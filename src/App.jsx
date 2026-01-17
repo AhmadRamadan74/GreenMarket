@@ -21,7 +21,7 @@ import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { Provider } from "react-redux";
 import { store } from "./redux/store.js";
 import ForgetPassword from "./components/ForgetPassword/ForgetPassword.jsx";
-import Wishlist from "./components/Wishlist/Wishlist.jsx";
+import Wishlist from "./components/WishList/WishList.jsx";
 import WishlistContextProvider from "./context/WishlistContext.jsx";
 import EmailVerification from "./components/EmailVerification/EmailVerification.jsx";
 import ResetPassword from "./components/ResetPassword/ResetPassword.jsx";
